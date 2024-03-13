@@ -1,0 +1,51 @@
+
+@media screen and (max-width:480px){
+
+   #navbar{
+    border: 1px solid;
+    justify-content: space-between;
+   }
+   ul{
+      display: flex;
+      justify-content: space-evenly;
+   }
+   
+   
+   #container2{
+      display: flex;
+      justify-content: space-evenly;
+   }
+   #container3{
+      display: flex;
+      justify-content: space-evenly;
+      background-color: whitesmoke;
+   }
+   #container4{
+      display: flex;
+      justify-content: space-evenly;
+   }
+   #container5{
+      display: flex;
+      justify-content: space-evenly;
+      background-color: whitesmoke;
+   }
+   #container6{
+      display: flex;
+      background-color: whitesmoke;
+      justify-content: space-between;
+   }
+   #container1{
+      display: flex;
+      justify-content: space-evenly;
+      background-color: whitesmoke;
+   }
+   #container0{
+      display: flex;
+      justify-content: space-evenly;
+   }
+}
+   
+   
+
+
+    
